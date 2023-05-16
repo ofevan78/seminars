@@ -24,3 +24,7 @@ if (number == 1 )
     {
     Console.WriteLine("день недели -воскресение");
     }
+    else 
+    {
+        Console.WriteLine("такого дня недели не сушествует");
+    }
