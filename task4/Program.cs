@@ -4,7 +4,7 @@ int start = int.Parse(Console.ReadLine());
 if (number>start)
 {
     Console.WriteLine(number + " Максимальое число");
-    Console.WriteLine(start + " Минимальное число");
+    Console.WriteLine(start + "Минимальное число");
 
 }
 else
