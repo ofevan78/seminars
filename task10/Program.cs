@@ -5,11 +5,17 @@
 Console.WriteLine("введите два числа");
 int a = int.Parse(Console.ReadLine());
 int b = int.Parse(Console.ReadLine());
-if(a%b == 0)
+FindLargestNumber(a,b);
+
+void FindLargestNumber(int a, int b)
 {
-    Console.WriteLine("число кратно");
+    if(a%b == 0)
+    {
+        Console.WriteLine("число кратно");
+    }
+    else 
+    {
+        Console.WriteLine("число не кратно остаток" + (a%b) );
+    }
 }
-else 
-{
-    Console.WriteLine("число не кратно " + (a%b) );
-}
+
