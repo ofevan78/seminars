@@ -1,4 +1,7 @@
-﻿int rand = new Random().Next(10, 100);
+﻿Main();
+void Main()
+{
+int rand = new Random().Next(10, 100);
 Console.WriteLine(rand);
 int a1 = FindFirstDigitNumber(rand);
 int b1 = FindSecondDigitNumber(rand);
@@ -9,7 +12,7 @@ Console.WriteLine(rand1);
 int a2 = FindFirstDigitNumber(rand1);
 int b2 = FindSecondDigitNumber(rand1);
 FindLargestNumber(a2, b2);
-
+}
 
 void FindLargestNumber(int a, int b)
 {
