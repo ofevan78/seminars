@@ -1,4 +1,5 @@
-﻿Main();
+﻿//найбольшоя цифра числа
+Main();
 void Main()
 {
 int rand = new Random().Next(10, 100);
