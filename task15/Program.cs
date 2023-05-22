@@ -15,18 +15,28 @@ void FindQurterPlane(int x )
 {
     if (x == 1)
     {
-        Console.WriteLine("Диопазон I четверти по x 0 до +бесконечности по y от 0 до +бесконечности ");
+        Console.WriteLine("Диопазон I четверти по x 0 до +бесконечности"); 
+        Console.WriteLine("Диопазон I четверти по y от 0 до +бесконечности ");
     }
     if (x == 2)
     {
-        Console.WriteLine("Диопазон II четверти по x -бесконечности до 0 по y 0 до +бесконечности  ");
-    }
+        Console.WriteLine("Диопазон II четверти по x -бесконечности до 0 ");
+        Console.WriteLine("Диопазон II четверти по y 0 до +бесконечности");
+    }   
     if (x == 3)
     {
-        Console.WriteLine("Диопазон III четверти по x 0 до -бесконечности по y 0 до -бесконечности");
+        Console.WriteLine("Диопазон III четверти по x 0 до -бесконечности ");
+        Console.WriteLine("Диопазон III четверти по y 0 до -бесконечности");
     }
     if (x == 4)
     {
-        Console.WriteLine("Диопазон IV четверти  по x 0 до +бесконечности по y от 0 до -бесконечности");
+        Console.WriteLine("Диопазон IV четверти  по x 0 до +бесконечности" );
+        Console.WriteLine("Диопазон IV четверти  по y от 0 до -бесконечности");
     }
+    else if(x>5)
+    {
+        Console.WriteLine("некоректный ввод");
+    }
+
+
 }
