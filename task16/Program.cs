@@ -17,7 +17,7 @@ int Prompt(string message)
 }
 double DistanceCoordinates(int xa, int ya, int xb, int yb)
 {
-double result = Convert.ToDouble(Math.Sqrt(((xb-xa)*(xb-xa))+((yb-ya)*(yb-ya))));
+double result = Convert.ToDouble(Math.Round(Math.Sqrt(((xb-xa)*(xb-xa))+((yb-ya)*(yb-ya))),3));
 Console.Write( "растояние между двух точек  " + result );
 return result;
 }
