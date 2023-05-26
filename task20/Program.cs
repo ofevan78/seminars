@@ -27,3 +27,4 @@ int Prompt(string message)
     int QurterNumber = int.Parse(Console.ReadLine());
     return QurterNumber;
 }
+//как можно цикал обернуть в метод у меня не получилось 
