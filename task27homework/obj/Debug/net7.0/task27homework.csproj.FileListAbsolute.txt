@@ -1,0 +1,15 @@
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\bin\Debug\net7.0\task27homework.exe
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\bin\Debug\net7.0\task27homework.deps.json
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\bin\Debug\net7.0\task27homework.runtimeconfig.json
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\bin\Debug\net7.0\task27homework.dll
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\bin\Debug\net7.0\task27homework.pdb
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\obj\Debug\net7.0\task27homework.csproj.AssemblyReference.cache
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\obj\Debug\net7.0\task27homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\obj\Debug\net7.0\task27homework.AssemblyInfoInputs.cache
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\obj\Debug\net7.0\task27homework.AssemblyInfo.cs
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\obj\Debug\net7.0\task27homework.csproj.CoreCompileInputs.cache
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\obj\Debug\net7.0\task27homework.dll
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\obj\Debug\net7.0\refint\task27homework.dll
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\obj\Debug\net7.0\task27homework.pdb
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\obj\Debug\net7.0\task27homework.genruntimeconfig.cache
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task27homework\obj\Debug\net7.0\ref\task27homework.dll
