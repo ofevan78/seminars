@@ -7,7 +7,7 @@ int[] GetArray(int size, int minValue, int maxValue)
     for (int i = 0; i < size; i++)
     {
         res[i] = new Random().Next(minValue, maxValue + 1);
-        Console.Write($"[{res[i]}] ");
+        Console.Write($" [{res[i]}] ");
 
 
     }
@@ -18,10 +18,10 @@ void ProductArrayNum(int[] arr)
 {
     int[] createArr = new int[arr.Length];
     int maxNum = arr.Length - 1;
-    for (int i = 0; i < (maxNum / 2) + 1; i++)
+    for (int i = 0; i <= maxNum / 2 + 1; i++)
     {
         createArr[i] = arr[i] * arr[maxNum - i];
-        Console.Write($"[{createArr[i]}] ");
+        Console.Write($" [{createArr[i]}] ");
 
     }
 
