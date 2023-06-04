@@ -1,0 +1,15 @@
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\bin\Debug\net7.0\task33.exe
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\bin\Debug\net7.0\task33.deps.json
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\bin\Debug\net7.0\task33.runtimeconfig.json
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\bin\Debug\net7.0\task33.dll
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\bin\Debug\net7.0\task33.pdb
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\obj\Debug\net7.0\task33.csproj.AssemblyReference.cache
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\obj\Debug\net7.0\task33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\obj\Debug\net7.0\task33.AssemblyInfoInputs.cache
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\obj\Debug\net7.0\task33.AssemblyInfo.cs
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\obj\Debug\net7.0\task33.csproj.CoreCompileInputs.cache
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\obj\Debug\net7.0\task33.dll
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\obj\Debug\net7.0\refint\task33.dll
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\obj\Debug\net7.0\task33.pdb
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\obj\Debug\net7.0\task33.genruntimeconfig.cache
+C:\Users\МаксимусПрайм\Desktop\C#СЕМИНАР\task33\obj\Debug\net7.0\ref\task33.dll
