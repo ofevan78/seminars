@@ -9,15 +9,22 @@
 
 int[] NumberFibonachi(int number)
 {
-    int[] sub = new int[number];
-    sub[0] = 0;
-    sub[1] = 1;
-    for (int i = 2; i < sub.Length; i++)
+    if (number <= 1)
+        return new int[1] { 0 };
+    else
     {
-        sub[i] = sub[i - 1] + sub[i - 2];
+
+        int[] sub = new int[number];
+        sub[0] = 0;
+        sub[1] = 1;
+        for (int i = 2; i < sub.Length; i++)
+        {
+            sub[i] = sub[i - 1] + sub[i - 2];
+        }
+        return sub;
     }
-    return sub;
 }
+
 Console.Write("ВЕДИТЕ ЧИСЛО ");
 int number = int.Parse(Console.ReadLine()!);
 Console.WriteLine(String.Join(", ", NumberFibonachi(number)));
